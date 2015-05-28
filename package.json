@@ -1,0 +1,15 @@
+{
+  "name": "Node-FacebookNotificationNotifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Barany <michael.barany@gmail.com>",
+  "license": "Apache 2",
+  "dependencies": {
+    "pushbullet": "^1.4.3",
+    "underscore": "^1.8.3"
+  }
+}
